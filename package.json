@@ -1,0 +1,12 @@
+{
+  "name": "mafia-mod-menu",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Client-side research and QoL tooling for MAFIA by Topline Studios (authorized testing)",
+  "scripts": {
+    "serve": "node serve.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
